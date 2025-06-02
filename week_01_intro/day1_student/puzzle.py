@@ -1,14 +1,21 @@
 # Puzzle: Fix the mixed-up code to match the expected output
 
+# Puzzle: Fix the mixed-up code to print the full poem
+
 # Expected output:
-# Hello, Bishop's!
-# Let's learn Python!
-# 1 + 1 = 2
+# Roses are red,
+# Violets are blue,
+# Coding at Bishop's,
+# Is the best thing to do!
+# Let's learn Python,
+# And have some fun!
 
-# Here’s the jumbled code — fix it!
+# Here's the jumbled code to fix!
 
-print("1 + 1 =", 1 + 1)
-# print("Let's learn Python!")
-# print("Hello, Bishop's!")
-print("Let's learn Python!")
-print("Hello, Bishop's!")
+
+print("Roses are red,")
+print("Let's learn Python,")
+print("Is the best thing to do!")
+print("Coding at Bishop's,")
+print("And have some fun!")
+print("Violets are blue,")
