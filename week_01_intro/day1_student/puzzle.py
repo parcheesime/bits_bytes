@@ -13,9 +13,9 @@
 # Here's the jumbled code to fix!
 
 
+print("Is the best thing to do!")
+print("And have some fun!")
 print("Roses are red,")
 print("Let's learn Python,")
-print("Is the best thing to do!")
 print("Coding at Bishop's,")
-print("And have some fun!")
 print("Violets are blue,")
