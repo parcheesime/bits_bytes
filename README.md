@@ -2,7 +2,7 @@
 
 Welcome to the **Python Summer Camp**! This 3-week course is designed for students in grades 8–10 who are transitioning from block-based coding (like Scratch or Code.org) to text-based programming using Python in VS Code.
 
-## 🗓️ Weekly Overview
+## 🗓️ Weekly Overview (under construction)
 
 | Week | Focus Area                       | Mini Project            | Special Theme Day        |
 |------|----------------------------------|--------------------------|---------------------------|
