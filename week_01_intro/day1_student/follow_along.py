@@ -6,6 +6,14 @@
 # 2. Print your name
 # (Write code here)
 
+# Follow Along: Print Basics
+
+# 1. Print a simple message
+# (Write code here)
+
+# 2. Print your name
+# (Write code here)
+
 # 3. Print multiple things on separate lines
 # (Write code here)
 
