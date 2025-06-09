@@ -1,6 +1,6 @@
 # lists count: 0, 1, 2, etc
-fruits = ["apple", "banana", "cherry"]
-
+fruits = []
+items = input("Please add an item to the list: ")
 # print the first and third items
 
 
@@ -8,3 +8,5 @@ fruits = ["apple", "banana", "cherry"]
 
 
 # loop through the list
+for i in fruits:
+    print(i)
