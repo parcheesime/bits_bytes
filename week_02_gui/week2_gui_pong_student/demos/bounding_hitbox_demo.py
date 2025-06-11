@@ -20,6 +20,7 @@ def check_collision():
     pos1 = canvas.coords(square)  # box
     pos2 = canvas.coords(circle)  # circle bounding box
 
+    # checking whether two rectangles (or bounding boxes) overlap
     if (pos1[2] >= pos2[0] and pos1[0] <= pos2[2] and
         pos1[3] >= pos2[1] and pos1[1] <= pos2[3]):
         print("⚠️ Bounding Box Collision!")
